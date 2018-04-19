@@ -82,7 +82,8 @@ spring:
     password: Y223183q!
     db-name: guns
     filters: log4j,wall,mergeStat
-sfs
+
+
 #flowable数据源和多数据源配置
 guns:
   flowable:
